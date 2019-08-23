@@ -1,0 +1,21 @@
+body{ 
+  display: flex;
+  justify-content: center;
+}
+
+.question {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.show img {
+  width: 300px;
+  height: 350px;
+}
+
+.show {
+  display: block;
+}
